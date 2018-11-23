@@ -89,21 +89,26 @@
 	</div>
 </div>
 
-<div class="row">
+<div class= " w3-row">
 	<div class="w3-col s12 m12 l12 ">
 			<h2 class="h1"><a>Over ons</a></h2>
 			<p class="w3-container w3-teal">Meer dan een decennia geleden, in 2005, heeft Fikret Kayis de fundamenten gelegd voor de huidige onderneming. İn de jaren daarna is er onder zijn leiding verder vorm gegeven aan het bedrijf en is Bouwmanagement Holland ontstaan. Zo heeft het bedrijf zich verder ontwikkeld tot een betrouwbaar en ervaren aannemersbedrijf waarbij de kwaliteit en dienstverlening hoog in het vaandel staat. Bouwmanagement Holland is gespecialiseerd in onderhoud, verbouw en renovatie. Hierdoor heeft het bedrijf ook samengewerkt met organisaties zoals woningcorporatie Eigen Haard en Rappange Makelaardij B.V.</p>	
 	</div>
 	<br/>
+	<div class="w3-col s12 m12 l12">
 <h3 class="w3-container w3-left" ><a>Organisitie</a></h3>
 <br/>
 <h4 class="w3-container w3-left"><a>Omvang en structuur<a/></h4>
 	<br/>
 	<p class="w3-container">De directie van Bouwmanagement Holland, bestaande uit Fikret Kayis en Hakan Kayis, heeft niet alleen als doelstelling groei, maar ook het behouden van de huidige kwaliteit. Bouwmanagement Holland hanteert een vlakke organisatiestructuur waar het bedrijf trots op is. Er is veel contact tussen de directie, opdrachtgever en alle medewerkers van het bedrijf. De organisatie van Bouwmanagement Holland is overzichtelijk. Flexibiliteit en daadkracht zijn verbonden met de bedrijfscultuur. Ervaren en gemotiveerde medewerkers zorgen ervoor dat opdrachtgevers kunnen rekenen op een efficiënte uitvoering van elk project. Bouwmanagement Holland werkt met circa 13 medewerkers.</p>
 	<br/>
+	
+	
 	<h4 class="h2"><a>Klantgerichte projectaanpak</a></h4>
 	<p class="w3-container">İeder project heeft zijn eigen karakteristieken, afhankelijk van de opdrachtgever, de situatie ter plaatse, de technische uitdaging, de planning en het budget. De oplossingsgerichtheid bij Bouwmanagement Holland is bij de uitvoering van veel projecten cruciaal. Het vermogen om aan de situatie aan te passen, risico’s in kaart te brengen en vervolgens deze oplossen vormen een belangrijk deel van de meerwaarde die Bouwmanagement Holland biedt. </p>
 	<br/>
+	</div>
+	<div class="w3-col s12 m12 l12">
 	<h2 class="h1"><a>Onze werkzaamheden</a></h2>
 	<h4 class="h2"><a>Onderhoud</a></h4>
 	<p>Onderhoud is een belangrijk onderdeel in het behoud van uw woning of bedrijfspand. Goed onderhoud voorkomt later grote uitgaven aan herstel of vervanging. Bouwmanagement Holland heeft veel ervaring in het onderhouden van woningen en bedrijfspanden doordat het heeft samengewerkt met diverse organisaties zoals:
@@ -130,6 +135,7 @@
 		<li>Nazien van douchegarnituren, kranen, afvoeren etc.</li>
 		<li>Herstellen stuc- en tegelwerk.</li>
 	</ul>
+	</div>
 </div>
 <div class="w3-row">
 <div class="w3-col m12 s12 l12">
