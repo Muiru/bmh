@@ -1,0 +1,36 @@
+#list1{
+list-style: none;
+}
+li{
+margin-left: 20px;
+}
+#logo{
+position: absolute;
+right: 5px;
+}
+#port{
+border-top-color: blue;
+border-bottom-color: blue;
+padding: 20px;
+width: 90%;
+border-width: 4px;
+}
+#boxPort{
+	background-color: wheat;
+}
+#bou{
+	color: brown;
+}
+#folio{
+color: blue;
+}
+#tableofContent{
+	display: flex;
+	flex-direction:column;
+	justify-content:space-between;
+	align-items: stretch;
+}
+
+#firstPageImage{
+	height: 150px !important;
+}
