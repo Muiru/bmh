@@ -6,7 +6,8 @@ margin-left: 20px;
 }
 #logo{
 position: absolute;
-right: 5px;
+right: 20px;
+margin-right: 40px;
 }
 #port{
 border-top-color: blue;
@@ -30,7 +31,10 @@ color: blue;
 	justify-content:space-between;
 	align-items: stretch;
 }
+p{
+		font-family: "Comic Sans MS", cursive, sans-serif;
+}
 
 #firstPageImage{
-	height: 150px !important;
+	
 }

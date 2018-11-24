@@ -6,7 +6,8 @@ margin-left: 20px;
 }
 #logo{
 position: absolute;
-right: 5px;
+right: 20px;
+margin-right: 40px;
 }
 #port{
 border-top-color: blue;
@@ -29,4 +30,8 @@ color: blue;
 	flex-direction:column;
 	justify-content:space-between;
 	align-items: stretch;
+}
+
+#firstPageImage{
+	
 }
