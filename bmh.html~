@@ -15,87 +15,35 @@
 <script type="text/javascript" src="resourse/style.js"></script>
 <title>BMH</title>
 </head>
-<body class="jumbotron container">
+<body >
+<div class="jumbotron">
 <div class="w3-row">
-<div class="w3-col s2 m1 l2 " id="logo">
-<img src="img/Portfolio Bouwmanagement Holland_html_a45b338d7f5191a8.jpg" alt="Logo Image" class="img-responsive" style="width: 100%">
-</div></div>
+<div class="w3-col s3 m1 l2 " id="logo"><a name="top"></a>
+<img src="img/Portfolio Bouwmanagement Holland_html_a45b338d7f5191a8.jpg" alt="Logo Image" class="img-responsive" id="logoImage">
+</div>
+<div id="small" class="w3-col m9 l9 s9 w3-left">
+<ul class="w3-ul w3-bar w3-mobile"  id="list1">
 <br/>
-<div class="w3-row">
-<div class="w3-col s4 m4 l5">
-<ul class="w3-ul w3-card-2 w3-center container"  id="list1">
+<li class="w3-btn w3-border w3-bar-item w3-padding-large"><a href="#bouwbe">Bouwbegeleiding</a></li>
 <br/>
-<li style="width:80%" class="w3-card-4 w3-blue w3-padding-large">Bouwbegeleiding</li>
+<li id="a" class="w3-btn w3-border w3-bar-item w3-padding-large"><a  href="#Tekenbureau">Tekenbureau</a></li>
 <br/>
-<li style="width:80%" class="w3-card-4 w3-blue w3-padding-large">Tekenbureau</li>
+<li class="w3-btn w3-border w3-bar-item w3-padding-large"><a href="#renovatie">Renovatie</a></li>
 <br/>
-<li style="width:80%" class="w3-card-4 w3-blue w3-padding-large">Renovatie</li>
-<br/>
-<li style="width:80%" class="w3-card-4 w3-blue w3-padding-large">Verbouw</li>
+<li  class="w3-btn w3-border w3-bar-item w3-padding-large"><a href="#verbouw">Verbouw</a></li>
 <br/>
 </ul>
-</div>
-</div>
-<br/>
-<div class="w3-row " ><div class="w3-col s3 m3 l3 w3-right " >
-<div id="port" class="w3-card container">
-<div id="boxPort" class="w3-border">
- <h1 class="h2" id="folio">PORTFOLiO</h1>
- <p id="bou">BOUWMANAGEMENT HOLLAND</p>
-	</div>
-</div>
-</div>
+</div></div>
 
-<div class="w3-row">
-	<div class="w3-col s4 m4 l5">
-		<img src="img/Portfolio Bouwmanagement Holland_html_a45b338d7f5191a8.jpg" alt="Logo Image" class="img-responsive" alt="logoD" class="img-responsive">	
-	</div>
-</div>
-<br/>
-
-<div class="w3-row">
-	<div class="w3-col m11 s11 l11 w3-display-container" >
-	<p>Inhound</p>
-	<div id="tableofContent" class="w3-card w3-center">	
-				<ul class="w3-ul">
-					<li><a>Over ons.....................................2</a></li>
-									<li><a>Organisatie.....................................2</a></li>
-									<ul class="w3-ul">
-											<li><a>Omvang en structuur..............................................2</a></li>
-											<li><a>Klantgerichte projectaanpak..................................2</a></li>									
-									</ul>
-									<li><a>Onze werkzaamheden..................................................3<a></li>
-									<ul class="w3-ul">
-									<li><a>Onderhoud..................................................3</a></li>
-									  <ul class="w3-ul">
-									<li><a>Foto's..................................................4<a/></li>
-									  </ul>
-									<li>Verbouw..................................................7</li>
-									<ul class="w3-ul">
-									 <li>Foto's..................................................9</li>
-									</ul>
-									<li>Renovatie..................................................11</li>
-									<ul class="w3-ul">
-										<li>Foto's..................................................11</li>									
-									</ul>
-									<li>Onderhoud..................................................13</li>
-										<ul class="w3-ul">
-										<li>Bouwbegeleiding, vergunning en ontwerp..................................................14</li>
-										</ul>
-									</ul>
-									<li>Slot..................................................14</li>
-				</ul>
-			</div>
-	</div>
-</div>
-
+<div class="cleafix">
 <div class= " w3-row">
-	<div class="w3-col s12 m12 l12 ">
-			<h2 class="h1"><a>Over ons</a></h2>
-			<p class="w3-container w3-teal">Meer dan een decennia geleden, in 2005, heeft Fikret Kayis de fundamenten gelegd voor de huidige onderneming. İn de jaren daarna is er onder zijn leiding verder vorm gegeven aan het bedrijf en is Bouwmanagement Holland ontstaan. Zo heeft het bedrijf zich verder ontwikkeld tot een betrouwbaar en ervaren aannemersbedrijf waarbij de kwaliteit en dienstverlening hoog in het vaandel staat. Bouwmanagement Holland is gespecialiseerd in onderhoud, verbouw en renovatie. Hierdoor heeft het bedrijf ook samengewerkt met organisaties zoals woningcorporatie Eigen Haard en Rappange Makelaardij B.V.</p>	
-	</div>
-	<br/>
-	<div class="w3-col s12 m12 l12">
+
+	<div id="aboutUs" class="w3-col s12 w3-card m3 w3-left l3 ">
+				<h2 class="h1"><a>Over ons</a></h2>
+			<p class="w3-container ">Meer dan een decennia geleden, in 2005, heeft Fikret Kayis de fundamenten gelegd voor de huidige onderneming. İn de jaren daarna is er onder zijn leiding verder vorm gegeven aan het bedrijf en is Bouwmanagement Holland ontstaan. Zo heeft het bedrijf zich verder ontwikkeld tot een betrouwbaar en ervaren aannemersbedrijf waarbij de kwaliteit en dienstverlening hoog in het vaandel staat. Bouwmanagement Holland is gespecialiseerd in onderhoud, verbouw en renovatie. Hierdoor heeft het bedrijf ook samengewerkt met organisaties zoals woningcorporatie Eigen Haard en Rappange Makelaardij B.V.</p>	</div>
+	
+	
+	<div id="organisation" class="w3-col w3-card s12 m4 w3-right l4">
 <h3 class="w3-container " ><a>Organisitie</a></h3>
 
 <h4 class="w3-container"><a>Omvang en structuur<a/></h4>
@@ -108,11 +56,11 @@
 	<p class="w3-container">İeder project heeft zijn eigen karakteristieken, afhankelijk van de opdrachtgever, de situatie ter plaatse, de technische uitdaging, de planning en het budget. De oplossingsgerichtheid bij Bouwmanagement Holland is bij de uitvoering van veel projecten cruciaal. Het vermogen om aan de situatie aan te passen, risico’s in kaart te brengen en vervolgens deze oplossen vormen een belangrijk deel van de meerwaarde die Bouwmanagement Holland biedt. </p>
 	<br/>
 	</div>
-	<div class="w3-col s12 m12 l12">
+	<div id="activity" class="w3-col w3-card s12 m5 l5">
 	<h2 class="h1"><a>Onze werkzaamheden</a></h2>
 	<h4 class="h2"><a>Onderhoud</a></h4>
-	<p>Onderhoud is een belangrijk onderdeel in het behoud van uw woning of bedrijfspand. Goed onderhoud voorkomt later grote uitgaven aan herstel of vervanging. Bouwmanagement Holland heeft veel ervaring in het onderhouden van woningen en bedrijfspanden doordat het heeft samengewerkt met diverse organisaties zoals:
-	<ul class="w3-ul">
+	<p>Onderhoud is een belangrijk onderdeel in het behoud van uw woning of bedrijfspand. Goed onderhoud voorkomt later grote uitgaven aan herstel of vervanging. Bouwmanagement Holland heeft veel ervaring in het onderhouden van woningen en bedrijfspanden doordat het heeft samengewerkt met diverse organisaties zoals:</p>
+	<ul class="w3-ul w3-amber w3-card-2">
 	<li>wonincorporatie Eigen Haard.</li>
 	<li>Rappange Makelaardij B.V.</li>
 	<li>VVE Mistaru</li>
@@ -120,12 +68,12 @@
 	<li>VVe Rubensstraat.</li>
 	</ul>
 	<br/>
-	Behalve organisaties doet Bouwmanagement Holland ook onderhoud voor particulieren die in bezit zijn van panden en regelmatig onderhoud, aandacht en bouwbegeleiding vereisen.
+	<p>Behalve organisaties doet Bouwmanagement Holland ook onderhoud voor particulieren die in bezit zijn van panden en regelmatig onderhoud, aandacht en bouwbegeleiding vereisen.
 	</p>
 	<br/>
 	<p class="w3-container">De werkzaamheden voor het onderhouden van woningen en panden variëren per klus. Enkele voorbeelden van onderhoud wat door Bouwmanagement Holland wordt gedaan zijn:</p>
 	<br/>
-	<ul class="w3-ul">
+	<ul class="w3-ul w3-amber w3-card-2">
 		<li>Onderhouden, repareren of vervangen kozijnen en deuren.</li>
 		<li>Onderhouden en repareren daken.</li>
 		<li>Aanpakken houtrot.</li>	
@@ -136,10 +84,30 @@
 		<li>Herstellen stuc- en tegelwerk.</li>
 	</ul>
 	</div>
+</div></div>
+
+
+<div class="w3-row" ><div class="w3-col s3 m3 l3 w3-right " >
+<div id="port" class="w3-card container">
+<div id="boxPort" class="w3-border">
+ <h1 class="h2 text-center" id="folio">PORTFOLiO</h1>
+ <p class="text-justify" id="bou">BOUWMANAGEMENT HOLLAND</p>
+	</div>
 </div>
+</div>
+
+<div class="w3-row">
+	<div class="w3-col s4 m4 l5">
+		<img src="img/Portfolio Bouwmanagement Holland_html_a45b338d7f5191a8.jpg" alt="Logo Image" class="img-responsive" alt="logoD" class="img-responsive">	
+	</div>
+</div>
+<br/>
+
+
+
 <div class="w3-row">
 <div class="w3-col m12 s12 l12">
-<h1 class="h1"><a>Foto's</a></h1>
+<h1 class="h1"><a name="Fotos">Foto's</a></h1>
 <p class="h3">Hieronder volgen enkele referentiefoto’s van de diverse onderhoudsklussen welke Bouwmanagement Holland heeft uitgevoerd.</p><br/>
 
 <p class="h4">Onderhoud erkers Minervalaan, te Amsterdam.</p>
@@ -216,7 +184,7 @@
 	</div>
 		<div class="clearfix">
 				<div class="w3-row">
-					<h2 class="h3">Verbouw</h2>
+					<h2 class="h3"><a name="verbouw">Verbouw</a></h2>
 					<p>Bouwmanagement Holland is gespecialiseerd in zowel totale verbouwingen als gedeeltelijke verbouwingen. Hierbij kunt u denken aan woningen, bedrijfspanden maar ook bijgebouwen zoals een tuinhuis. Er zijn verschillende mogelijkheden om een bestaande woning uit te breiden:</p>	
 					<h3 class="h4">Aanbouw</h3>
 					<p>De meest voorkomende uitbreiding aan een woning is een vergunningsvrije aanbouw. Uitbouwen tot twee en halve meter uit de achtergevel is vergunningsvrij. Een vergunningsvrije aanbouw is op korte termijn te realiseren. De nieuwe achtergevel kan op vele manieren worden uitgevoerd, zodat er altijd een passende invulling te vinden is. Ook een glasdakconstructie over de laatste meter van de aanbouw behoort tot de mogelijkheden, waardoor er minder licht wordt kwijtgeraakt in de huidige ruimte.</p>			
@@ -294,7 +262,7 @@ In zo’n geval is een dakopbouw ideaal. Je breidt zo je woning relatief snel en
 							
 							</div>
 							<div class="w3-row w3-margin-top">
-								<h2 class="h3">Renovatie</h2>
+								<h2 class="h3"><a name="renovatie">Renovatie</h2>
 									<div class="w3-col m12 s12 l12">
 										<p>Renoveren variëert van het renoveren van een complete woning tot het renoveren van alleen een badkamer. Als uw woning of bedrijfspand niet meer aan de eisen van de tijd voldoet, dan is er de keuze tussen sloop of renovatie. Bij dit laatste worden alle huidige voorzieningen en onderdelen zoals de vloeren, muren, daken, kozijnen, ramen, deuren, beglazing, isolatie, sanitaire ruimtes, installaties etc. aangepast aan de eisen van de huidige tijd. Na een grondige renovatie kan met het gebruiksgemak van de moderne voorzieningen het oorspronkelijke gebouw weer optimaal worden gebruikt. Bouwmanagement Holland heeft de afgelopen decennia diverse renovaties uitgevoerd. Deze verschillen van het renoveren van badkamers tot het renoveren van gehele vrijstaande woningen.</p>
 										<br/>
@@ -374,15 +342,17 @@ In zo’n geval is een dakopbouw ideaal. Je breidt zo je woning relatief snel en
 								<div class="col-sm-12">
 									<p>Hieronder ziet u foto’s waarbij Bouwmanagement Holland een dakterras van een pand heeft gerenoveerd. Hierbij is de oppervlakte gemaximaliseerd waardoor de bewoners meer uit hun nieuwe dakterras hebben kunnen halen. </p>
 									
-									<h3 class="h3"><a>Bouwbegeleiding, vergunning en ontwerp</a></h3>
+									<h3 class="h3"><a name="bouwbe">Bouwbegeleiding, vergunning en ontwerp</a></h3>
 									<p>Naast de uitvoering kunnen wij, Bouwmanagement Holland, u ook begeleiden bij het maken van goede bouwtekeningen, begeleiden van bouwuitvoering, het uitwerken van een passende concept en het eventueel aanvragen van bouwvergunningen.</p>
 									
-									<h2 class="h1">Slot</h2>
+									<h2 class="h1"><a name="slot">Slot</a></h2>
 									<p>Bouwmanagement Holland is een veelzijdig aannemersbedrijf waarbij kwailiteit en efficiëntie hoog in het vaandel staat. 
 Door de diversiteit aan opdrachten die wij als bedrijf hebben mogen uitvoeren hebben wij de juiste ervaring opgedaan om elk bouwwerk tot een kwalitatief goed einde te brengen. Dit verschilt van werkzaamheden die betrekking hebben op nieuwbouw, renovatie, verbouwing en onderhoud. </p>
 
 <p>Door de opgedane ervaring dankzij de samenwerking met woningcorporaties, makelaars, VVE’s en zelfs particulieren staat Bouwmanagement Holland garant voor het werk wat het levert.</p>
-								</div>							
-							</div>
+								</div>
+								<div class="w3-row"><div class="w3-col s12 w3-right"><div class="w3-card" style="width: 100%"><a href="#top" class="w3-button w3-brown">Top</a>	</div>						
+		</div>					</div>
+		</div>
 </body>
 </html>

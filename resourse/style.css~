@@ -1,13 +1,45 @@
-#list1{
-list-style: none;
+body{
+	white-space: normal;
+
 }
-li{
+
+.jumbotron{
+	background-color: #efc050 !important;
+	margin: auto !important;
+}
+
+.w3-bar{
+	background-color: black !important;
+	width: 100%;
+	top: 5px;
+	
+}
+
+.w3-bar li{
+	padding: auto !important;
+	width: 30% !important;
+}
+#list1{
+	display: flex;
+	float: left;
+list-style: none;
+height: 100%;
+width: 100%;
+
+}
+li a{
+	color: white;
 margin-left: 20px;
 }
 #logo{
 position: absolute;
+top: 8px;
 right: 20px;
 margin-right: 40px;
+}
+
+#logoImage{
+	width: 100%;
 }
 #port{
 border-top-color: blue;
@@ -31,7 +63,47 @@ color: blue;
 	justify-content:space-between;
 	align-items: stretch;
 }
+p,li{
+		font-family: "Comic Sans MS", cursive, sans-serif;
+		color: brown;
+}
 
 #firstPageImage{
 	
+}
+
+#aboutUs,#organisation,#activity{
+	margin: 20px 0 5px 0 ;
+}
+
+#activity{
+	background-color: #efc050;
+}
+ h1,h2,h3,h4,h5,h6{
+	color:#6a5acd !important; 
+ }
+ 
+@media screen and (max-width:320px) {
+	#list1{
+		display: flex;
+		flex-direction:column;
+		padding: auto;
+		align-items: stretch;
+		justify-content:center;
+	}
+
+	#a{
+		width: 100% !important;	
+	}
+	#list1 li{
+		
+		overflow: auto;
+		width: 100% !important;
+		text-align:left;
+		
+				}
+				
+	#folio,#bou{
+		font-size: .75em;
+	}
 }
