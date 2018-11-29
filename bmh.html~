@@ -87,7 +87,7 @@
 </div></div>
 
 
-<div class="w3-row" ><div class="w3-col s3 m3 l3 w3-right " >
+<div class="w3-row" ><div  class="w3-col s3 m3 l3 w3-right ">
 <div id="port" class="w3-card container">
 <div id="boxPort" class="w3-border">
  <h1 class="h2 text-center" id="folio">PORTFOLiO</h1>

@@ -102,7 +102,9 @@ p,li{
 		text-align:left;
 		
 				}
-				
+				#lg{
+					width: 100%;
+				}
 	#folio,#bou{
 		font-size: .75em;
 	}
